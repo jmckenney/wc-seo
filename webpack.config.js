@@ -3,6 +3,6 @@ const path = require('path');
 const defaultConfig = require('@open-wc/building-webpack/default-config');
 
 module.exports = defaultConfig({
-  indexHTML: path.resolve(__dirname, './src/index.html'),
+  indexHTML: path.resolve(__dirname, './src/googlef9901a4167e4ea1e.html'),
   indexJS: path.resolve(__dirname, './src/index.js'),
 });
