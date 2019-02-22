@@ -1,0 +1,6 @@
+{
+  "generator-open-wc": {
+    "tagName": "search-engine-friendly",
+    "className": "SearchEngineFriendly"
+  }
+}
