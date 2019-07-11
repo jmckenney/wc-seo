@@ -26,6 +26,9 @@ class SearchEngineFriendly extends LitElement {
           font-size: calc(10px + 2vmin);
           color: #1a2b42;
         }
+        h1 {
+          background-color: var(--my-var, var(--my-background, pink));
+        }
 
         header {
           margin: auto;
